@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/tmp/kavia/workspace/code-generation/gourmet-delivery-platform-8388-8397/database_postgresql"
+}

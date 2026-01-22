@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/gourmet-delivery-platform-8388-8397/database_postgresql"
+}
